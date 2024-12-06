@@ -1,0 +1,8 @@
+-- Output for the query to get top 5 best-selling products
++-------------------+------------+
+| product_name      | total_sold |
++-------------------+------------+
+| Smartphone        | 150        |
+| T-Shirt           | 120        |
+| Couch             | 75         |
++-------------------+------------+
